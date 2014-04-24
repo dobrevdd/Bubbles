@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="greensock" type="flex">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/FlashBuilder_libraries/greensock" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Documents/FlashBuilder_libraries/greensock/docs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

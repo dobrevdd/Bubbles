@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="E317E46849F9C8623291EC4B82181230" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="AIRSDK_Compiler" project-jdk-type="Flex SDK Type (new)">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
